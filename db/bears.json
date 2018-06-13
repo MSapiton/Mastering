@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
 	{
 	"id": 11,
 	"name": "Bubochka",
@@ -11,9 +11,9 @@
 	"type": "Black"
 
 }
-=======
+
 	"id": 11,
 	"name": "Bubochka",
 	"type": "Panda"
->>>>>>> c23b65a95e98bb138863746ce9b076ff97637763
+
 }
